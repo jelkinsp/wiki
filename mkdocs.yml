@@ -1,5 +1,5 @@
 site_name: Wiki1
-site_author: Wiki2
+site_author: Site Fake
 site_url: https://jelkinsp.github.io/wiki
 nav:
   - Introduction: 'index.md'
